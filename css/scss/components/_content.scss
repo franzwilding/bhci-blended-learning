@@ -1,0 +1,18 @@
+
+.ui.top.fixed.menu {
+  z-index: 1000;
+}
+
+.main-sidebar {
+  position: fixed;
+  max-width: 1140px;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.main-content {
+  margin-left: 300px;
+  margin-top: 50px;
+  padding-top: 50px;
+  padding-bottom: 150px;
+}
